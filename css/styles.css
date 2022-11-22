@@ -293,9 +293,9 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #ffffff;
-  text-align: center;
   justify-content: center;
-  padding-top: 27px;
+  display: flex;
+  align-items: center;
   position: absolute;
   bottom: 0;
   left: 0;
