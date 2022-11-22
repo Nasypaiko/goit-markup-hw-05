@@ -631,7 +631,7 @@ img {
     1px 4px 6px rgba(0, 0, 0, 0.16);
 }
 
-.team-work:hover .team-top-text {
+.list-work-link:hover .team-top-text {
   transform: translateY(0);
 }
 
